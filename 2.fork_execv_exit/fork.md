@@ -5,7 +5,7 @@
 * fork的本意是叉子：实际上fork就是做一次状态机完整的复制（内存、寄存器等）
 * 通过 **pstree** 命令，也能看出来，实际上都是由init进程fork而来的
 
-![pstree](.\pic\pstree.jpg)
+![pstree](pic/pstree.jpg)
 
 # fork API
 
